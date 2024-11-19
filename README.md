@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm kassim</h1>
+<!DOCTYPE html>
+<html>
+<head>
+    
+</head>
+<body>
+    <img src="C:\Users\ez132\Pictures\Screenshots\daylight-environment-forest-459225.jpg" alt="Description de l'image" width="300" height="100">
+  <h1 align="center">Hi 👋, I'm kassim</h1>
 <h3 align="center">I'm french student from LAPLATEFORME</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kassim-abed&label=Profile%20views&color=0e75b6&style=flat" alt="kassim-abed" /> </p>
@@ -15,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kassim-abed&show_icons=true&locale=en" alt="kassim-abed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kassim-abed&" alt="kassim-abed" /></p>
+
+</body>
+</html>
